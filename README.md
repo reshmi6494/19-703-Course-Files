@@ -1,2 +1,2 @@
 # 19-703-Course-Files
-Coding excercises from the Applied Data Analysis class
+Coding excercises and Final Project from the Applied Data Analysis class
